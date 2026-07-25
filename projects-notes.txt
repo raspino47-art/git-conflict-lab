@@ -1,0 +1,4 @@
+Project: Git Conflict Lab
+Purpose: Practice Git and GitHub workflows
+Skills: Clone, branch, commit, push, and pull requests
+Owner: Evans
